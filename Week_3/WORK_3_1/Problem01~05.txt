@@ -1,0 +1,76 @@
+1. Complex number
+[Member fields]
+real
+image
+i
+[Member functions]
+setFiled~
+getFiled~
+
+getComplexNumber
+isComplexNumber
+
+2. Point
+[Member fields]
+x_coordinate
+y_coordinate
+[Member functions]
+setFiled~
+getFiled~
+getPoint
+getDistanceFromOrigin
+isYaxis
+isXaxis
+isOrigin
+
+3. Rectangle
+[Member fields]
+width
+length
+color
+condition
+attribute
+[Member functions]
+setFiled~
+getFiled~
+getPoint(int)
+getArea
+getShape
+getAngle(point)
+
+4. Employee
+[Member fields]
+department
+position
+wage
+workday
+employmentday
+[Member functions]
+wageadjustment
+local declaration
+work
+overtime
+peck
+bonus
+evasion of responsibility
+performance
+promotion
+hoilday
+
+5. vehicle
+[Member fields]
+brand
+price
+color
+option
+year
+motor
+[Member functions]
+accelerator
+break
+dashboard
+airconditioner
+radio
+isopendoor
+backmirror
+wiper
